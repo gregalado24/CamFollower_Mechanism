@@ -70,10 +70,10 @@ A dynamic analysis was then performed to measure system behavior during cam rota
 The simulation tracked the following system responses:
 
 ### Valve Position
-![Position](position_plot.png)
+![Position](Motion/position_plot.png)
 
 ### Valve Velocity
-![Velocity](velocity_plot.png)
+![Velocity]()
 
 ### Valve Acceleration
 ![Acceleration](accele_plot.png)
