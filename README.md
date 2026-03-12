@@ -79,7 +79,7 @@ The simulation tracked the following system responses:
 ![Acceleration](Motion/accele_plot.png)
 
 ### Reaction Force
-![Reaction Force](reaction_plot.png)
+![Reaction Force](Motion/reaction_plot.png)
 
 These plots illustrate how the cam profile controls valve timing and force transmission during operation.
 
