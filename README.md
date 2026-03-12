@@ -73,7 +73,7 @@ The simulation tracked the following system responses:
 ![Position](Motion/position_plot.png)
 
 ### Valve Velocity
-![Velocity]()
+![Velocity](Motion/velocity_plot.png)
 
 ### Valve Acceleration
 ![Acceleration](accele_plot.png)
